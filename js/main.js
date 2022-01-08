@@ -1,0 +1,18 @@
+alert("Hello world");
+alert("Please, may your answer for questions");
+var userName = prompt("ismingizni kiriting");
+console.log(userName);
+var userSurname = prompt("Familiyangizni kiriting");
+console.log("Bekpulatov");
+var age = +prompt("Yoshingizni kiriting");
+console.log(age);
+var fullName = prompt("Toliq ismingizni kiriting");
+console.log("Tnank you for answering question " + fullName + " " + age);
+var yuorHistory = prompt("When you started learning compyuter skils");
+console.log(yuorHistory);
+var year = +prompt("When you born");
+console.log(year);
+var color = prompt("What is your favourite color");
+console.log(color);
+var music = prompt("What is your adorable music");
+console.log(music);
